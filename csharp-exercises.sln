@@ -29,29 +29,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldName", "HelloWorl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{DE499EEF-4600-4507-BFFF-5DEBE6D50DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesPerGallon", "MilesPerGallon\MilesPerGallon.csproj", "{DA3948E3-A391-493F-A8E8-2F64CA9B2A72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay1MilesPerGallon", "MilesPerGallon\PrepDay1MilesPerGallon.csproj", "{DA3948E3-A391-493F-A8E8-2F64CA9B2A72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceTextSearch", "ConsoleApplication1\AliceTextSearch.csproj", "{B8070812-1C4C-4F16-93FB-391549CAC9B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay1AliceTextSearch", "ConsoleApplication1\PrepDay1AliceTextSearch.csproj", "{B8070812-1C4C-4F16-93FB-391549CAC9B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceRegex", "AliceTest\AliceRegex.csproj", "{F5D60186-EDBF-41B2-ACA6-F304CC2A19DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay1AliceRegex", "AliceTest\PrepDay1AliceRegex.csproj", "{F5D60186-EDBF-41B2-ACA6-F304CC2A19DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceStringList", "AliceStringList\AliceStringList.csproj", "{127EF24E-EB07-472A-8E5D-A193A3C07C33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay1AliceStringList", "AliceStringList\PrepDay1AliceStringList.csproj", "{127EF24E-EB07-472A-8E5D-A193A3C07C33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay2DataStructures", "PrepDay2DataStructures\PrepDay2DataStructures.csproj", "{2F4B84B3-69B2-4B26-944A-E925C763018A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceStringListWithContainsMethod", "AliceStringListWithContainsMethod\AliceStringListWithContainsMethod.csproj", "{A7DD3CFB-B92D-492D-9991-3478E2F4AA50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay1AliceStringListWithContainsMethod", "AliceStringListWithContainsMethod\PrepDay1AliceStringListWithContainsMethod.csproj", "{A7DD3CFB-B92D-492D-9991-3478E2F4AA50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay2WorkingWithStrings", "PrepDay2WorkingWithStrings\PrepDay2WorkingWithStrings.csproj", "{95E45A3B-3046-438E-950A-09E22FF15958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2ExLists", "Day2ExLists\Day2ExLists.csproj", "{15B62072-9A81-43ED-91D8-A351D11BC86F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay2ExLists", "Day2ExLists\PrepDay2ExLists.csproj", "{15B62072-9A81-43ED-91D8-A351D11BC86F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Ex5Letters", "Day2Ex5Letters\Day2Ex5Letters.csproj", "{2E0FB4D4-18EA-4388-B24F-D6A035A57D0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay2ExListsAndStrings", "Day2Ex5Letters\PrepDay2ExListsAndStrings.csproj", "{2E0FB4D4-18EA-4388-B24F-D6A035A57D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2ExArray", "Day2ExArray\Day2ExArray.csproj", "{4BD67093-1735-4CE0-8BE4-77A23F15A7F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay2ExArray", "Day2ExArray\PrepDay2ExArray.csproj", "{4BD67093-1735-4CE0-8BE4-77A23F15A7F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2ExDict", "Day2ExDict\Day2ExDict.csproj", "{0F01F35A-4753-482F-AEE4-131E3883C9B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay2ExDict", "Day2ExDict\PrepDay2ExDict.csproj", "{0F01F35A-4753-482F-AEE4-131E3883C9B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderGradebook", "StringBuilderGradebook\StringBuilderGradebook.csproj", "{BCC24BDF-38F7-4E78-AD23-8D05BB4C6146}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepDay2ExStrings", "StringBuilderGradebook\PrepDay2ExStrings.csproj", "{BCC24BDF-38F7-4E78-AD23-8D05BB4C6146}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.xproj", "{7DBA0577-C32F-49DF-AA99-5C9D0D457FA8}"
 EndProject
